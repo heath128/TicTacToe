@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1303533113 source:c:\users\heath\desktop\learning c++ code\hello world\tictactoe\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"functions.h"
+
+1303571663 c:\users\heath\desktop\learning c++ code\hello world\tictactoe\functions.h
+
+1302676891 c:\users\heath\desktop\learning c++ code\hello world\tictactoe\drawboard.h
+
+1303102913 source:c:\users\heath\desktop\learning c++ code\hello world\tictactoe\drawboard.cpp
+	<iostream>
+
+1303533113 source:c:\users\heath\desktop\learning c++ code\hello world\tictactoe\checkmove.cpp
+	<iostream>
+	<cstdlib>
+	"functions.h"
+
+1303094887 source:c:\users\heath\desktop\learning c++ code\hello world\tictactoe\checkwinner.cpp
+	<iostream>
+	<cstdlib>
+
